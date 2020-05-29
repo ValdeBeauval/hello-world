@@ -1,11 +1,16 @@
-# Hello-World
-# Titre de section - niveau 1
-## Titre de section - niveau 2
-### Titre de section - niveau 3
+# Apprendre à écrire en MarkDown
 
 Apprendre à travailler avec un dépôt Git. Pour se faire, il est important de maitriser MarkDown (entre autre).
 
 Explication des formatages avec MarkDown => https://fr.wikipedia.org/wiki/Markdown
+
+# Gestion des titres de sections
+
+# Titre de section - niveau 1
+## Titre de section - niveau 2
+### Titre de section - niveau 3
+
+
 
 # Gestion des paragraphes : 
 
