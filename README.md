@@ -3,9 +3,7 @@
 ## Titre de section - niveau 2
 ### Titre de section - niveau 3
 
-*Apprendre à travailler avec un dépôt Git* Mettre des "*" au début et à la fin
-
-*Petite prise en main du format MarkDown*
+Apprendre à travailler avec un dépôt Git. Pour se faire, il est important de maitriser MarkDown (entre autre).
 
 Explication des formatages avec MarkDown => https://fr.wikipedia.org/wiki/Markdown
 
