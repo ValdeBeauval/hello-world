@@ -10,39 +10,25 @@ Explication des formatages avec MarkDown => https://fr.wikipedia.org/wiki/Markdo
 ## Titre de section - niveau 2
 ### Titre de section - niveau 3
 
-
-
 # Gestion des paragraphes : 
 
-Première ligne
+Phrase sur une ligne
 deuxième ligne
 => A ce moment là, tout se retrouve sur la même ligne
 
 Il faut laisser une ligne vide dans le texte pour véritablement laisser un espace.
 
+# Mise en forme du texte
 
-ça y est je passe à l'étape de commit en écoutant tranquillement un peu de ledzeppelin!
-c'est Cool!
-C'est quoi les options de cette extension md
+*italic*
 
-AA, c'est du markdown => 
-
-là on est dans un seul paragraphe
-avec 2 lignes
-
-là on est dans un autre paragraphe!!
-c'est la fête du paragraphe
-
-*Mot en emphase*
-**encore plus en enphase**
+**là c'est plus du strong**
 
 pour les listes
 * item1
   * item 2
       * item 3
 
-
-J'ai pas encore tout tester
 
 TEST
 ----
